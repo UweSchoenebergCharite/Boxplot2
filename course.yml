@@ -4,6 +4,9 @@ description      : Homework exercises for a reproducible research course in R ta
 university       : QUEST
 difficulty_level : 2
 time_needed      : 1 hour
+programming_language: r
+from: 'r-base-prod:30'
+
 ---
 ## Recap of last session
 
